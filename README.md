@@ -39,3 +39,34 @@
 ![comparativo_SGBD](/ComparativoSGBD.jpg)
 
 ----------------------------------------------
+
+### Funciones de un SGBD
+![funcionesSgbdphoto](/funciones%20de%20un%20SGBD.jpg)
+
+----------------------------------------------
+
+### Tipos de bases de datos
+![funcionesSgbdphoto](/Tipos%20de.jpg)
+
+----------------------------------------------
+
+### Integridades
+![funcionesSgbdphoto](/Entidades.jpg)
+
+----------------------------------------------
+
+### Ejercicio Transformacion ER a MR
+> ![vuelos](/vuelos.gif)
+![ejerciciovuelos](/vuelos.jpg)
+
+----------------------------------------------
+
+### Normalización e bases e datos
+
+![normalizacion](/NF.jpg)
+
+----------------------------------------------
+
+
+### MODELOS ACID BASE CAP
+![acidvsbasCAP](/ACIDvsBASEtoeremaCAP.jpg)
