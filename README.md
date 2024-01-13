@@ -46,7 +46,7 @@
 ----------------------------------------------
 
 ### Tipos de bases de datos
-![funcionesSgbdphoto](/Tipos%20de.jpg)
+![funcionesSgbdphoto](/tiposbd.jpg)
 
 ----------------------------------------------
 
@@ -70,3 +70,9 @@
 
 ### MODELOS ACID BASE CAP
 ![acidvsbasCAP](/ACIDvsBASEtoeremaCAP.jpg)
+
+----------------------------------------------
+
+
+### Quizes
+![acidvsbasCAP](/fff.png)
