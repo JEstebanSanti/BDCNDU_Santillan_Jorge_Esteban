@@ -76,3 +76,22 @@
 
 ### Quizes
 ![acidvsbasCAP](/fff.png)
+
+----------------------------------------------
+
+
+### Conclusiones 
+
+> En esta primera actividad pude conocer un poco mas solo lo tecnico de bases de datos, recorde un poco lo que son y todo lo teorico y refresco mi memoria, con esto concluyo que esta actividad me hizo conocer oportunidades de mejora. En cuanto a los quiz mas practicos me hizo conocer que de las muchas cosas que aun no conozco y otras que ya maneje anteriormente.
+
+### biblografias
+
+https://aws.amazon.com/es/what-is/data-modeling/
+https://es.slideshare.net/rafq007/diferencias-entre-base-de-datos-relacional-y-no-relacional
+https://www.cursosgis.com/comparativa-de-los-principales-sistemas-gestores-de-bases-de-datos-sgbd/
+https://www.cursosgis.com/comparativa-de-los-principales-sistemas-gestores-de-bases-de-datos-sgbd/
+https://www.youtube.com/watch?v=bO18omSzeR4
+https://es.slideshare.net/dipina/nosql-introduccin-a-las-bases-de-datos-no-estructuradas
+https://sqlzoo.net/wiki/SELECT_basics
+https://aws.amazon.com/compare/the-difference-between-acid-and-base-database/
+https://chat.openai.com
